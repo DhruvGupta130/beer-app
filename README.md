@@ -1,12 +1,15 @@
-# React + Vite
+🧑‍💻 Beer Search App 🍻  
+A sleek, responsive web application built with React, showcasing beers from a public API. Search, browse, and paginate through a collection of beers with a smooth user experience and a modern, dark-themed interface.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack:  
+- 🌀 React.js  
+- 🔗 Axios for API calls  
+- 🎨 Material UI for components  
+- 🖌️ Custom CSS for styling  
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌟 Features:  
+- 🔍 Search functionality  
+- 📄 Pagination support  
+- 🚨 Error handling with alerts  
+- ⏳ Loading states with spinners  
+- 📱 Responsive design  
